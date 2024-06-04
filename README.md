@@ -19,3 +19,4 @@ In this project we will discover the MNIST handwritten digit recognition problem
 
 ## Evaluation 
 The model gets loss a of 0.0241 and an accuracy of 0.992 while evaluating on the test set.
+# MNIST-DIGITAL-CLASSIFICATION
